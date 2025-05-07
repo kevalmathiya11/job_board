@@ -16,7 +16,7 @@ A simple Python web app for managing job listings with user authentication, emai
 
 1. Clone the repository:
  
-   git clone https://github.com/yourusername/job-board.git
+   git clone https://github.com/kevalmathiya11/job_board.git
    cd job-board
 2.Create and activate a virtual environment (optional but recommended):
 
